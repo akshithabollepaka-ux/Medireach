@@ -18,8 +18,11 @@ Smart healthcare app to find doctors quickly and efficiently.
 ---
 
 ## Technologies Used
-- Frontend: React (UI Design)
-- Backend: Firebase (planned)
+- Frontend: React.js (UI Design)
+- Styling: CSS (using Tailwind CSS framework)
+- Build Tool: Vite
+- Backend: Firebase (planned for future implementation)
+
 ---
 
 ## Advantages
