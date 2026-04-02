@@ -1,2 +1,60 @@
-# Medireach
-Smart healthcare app to find doctors quickly.
+# MediReach 
+
+Smart healthcare app to find doctors quickly and efficiently.
+
+---
+
+## About the Project
+- MediReach is a healthcare application designed to help users find nearby hospitals and doctors quickly, especially during emergency situations. 
+- This app is particularly useful during night times, when it becomes difficult to find available doctors or hospitals.
+
+## Features
+- Find nearest hospital
+- Doctor & Patient login system
+- Emergency-friendly interface
+- Simple and easy-to-use UI
+- Fast response system
+
+---
+
+## Technologies Used
+- Frontend: React (UI Design)
+- Backend: Firebase (planned)
+---
+
+## Advantages
+- Saves time in emergencies
+- Easy to use for all age groups
+- Helps in quick medical access
+- User-friendly interface
+
+---
+
+## Future Scope
+- Live ambulance tracking
+- AI-based hospital suggestions
+- SMS support for rural areas
+- Full hospital integration system
+
+---
+
+## Project Structure
+- src/ → Main application code
+- public/ → Assets and images
+- README.md → Project documentation
+
+---
+
+## Team Members
+- Bollepaka Akshitha
+- Varkala Hema
+- Patlolla Vaishnavi
+
+---
+
+## Conclusion
+MediReach aims to save lives by reducing the time taken to find immediate medical help.
+
+**Because in emergencies, every second counts.
+
+
