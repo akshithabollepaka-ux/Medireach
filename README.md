@@ -24,6 +24,16 @@ Smart healthcare app to find doctors quickly and efficiently.
 - Backend: Firebase (planned for future implementation)
 
 ---
+## 🚀 Setup Instructions
+
+1. Download or clone the repository
+2. Open the project folder
+3. Install dependencies:
+   npm install
+4. Run the project:
+   npm run dev
+   
+---
 
 ## Advantages
 - Saves time in emergencies
@@ -54,6 +64,10 @@ Smart healthcare app to find doctors quickly and efficiently.
 - Patlolla Vaishnavi
 
 ---
+
+## Point of contact
+- Name: Bollepaka Akshitha
+- Email:akshithabollepaka@gmail.com
 
 ## Conclusion
 MediReach aims to save lives by reducing the time taken to find immediate medical help.
