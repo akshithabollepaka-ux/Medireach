@@ -4,6 +4,9 @@ Smart healthcare app to find doctors quickly and efficiently.
 
 ---
 
+# App link
+- https://health-glide-now.lovable.app
+
 ## About the Project
 - MediReach is a healthcare application designed to help users find nearby hospitals and doctors quickly, especially during emergency situations. 
 - This app is particularly useful during night times, when it becomes difficult to find available doctors or hospitals.
